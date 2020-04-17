@@ -17,8 +17,4 @@ public class TestCode : MonoBehaviour{
         engine.rounds = rounds;
         engine.MugenStart();
     }
-    void Update()
-    {
-        
-    }
 }
