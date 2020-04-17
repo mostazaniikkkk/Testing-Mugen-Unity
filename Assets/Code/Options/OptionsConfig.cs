@@ -13,6 +13,6 @@ public class OptionsConfig {
     public string motif = "data/mugen1/system.def";
 
     public void Option2Text(){
-
+        string text;
     }
 }
